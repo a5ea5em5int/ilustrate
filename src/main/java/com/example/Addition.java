@@ -13,5 +13,9 @@ public class Addition {
     {
        return a+b;
     }
+    void addVoid()
+    {   System.out.println(" change in master"+a +b);
+
+    }
 
 }
